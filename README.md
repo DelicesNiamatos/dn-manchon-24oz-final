@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31711953/README.md)
 # Délices Niamatos — Espace conception & tests
 
 Site interne pour l'équipe **conception, tests de produits et emballages**.
